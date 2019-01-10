@@ -1,0 +1,6 @@
+
+1. This is a sample code for our ORMC~(Online Robust Matrix Completion) model.
+
+2. Before  utilizing it, you should contact with me by Email: huzhanxuan@mail.nwpu.edu.cn, because we cannot confirm it will be received by TPAMI.
+
+3. 'OptimalMeanRobustApproximation.m' is code we used in our paper.
